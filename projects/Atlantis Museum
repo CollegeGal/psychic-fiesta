@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../styles.css" />
+    <title>Dorina Laschinsky</title>
+    <script src="../psychic-fiesta/script.js"></script>
+  </head>
+
+  <body>
+
+    <nav>
+       <a href="../" class="name">
+          <img src="/psychic-fiesta/images/logo.svg" alt="Dorina Lasch" />
+        </a>
+      <div class="nav-cont">
+        <a href="/psychic-fiesta/about.html">ABOUT</a>
+        <a href="/psychic-fiesta/work.html">WORK</a>
+      </div>
+    </nav>
+
+    <main>
+<div class="project-split">
+<!--info-->
+    <div class="info">
+        <h1>Blago</h1>
+        <p>infoinfoinfoinfo</p>
+    </div>
+<!--images-->
+    <div class="content">
+        <img src="/psychic-fiesta/images/about_me_dog.png" alt=""> <!--copy this-->
+      
+    </div>
+</div>
+    </main>
+
+    <footer>
+      <div>
+        <a href="" style="margin-right:2rem;">Instagram</a>
+        <a href="mailto:dorinalaschinsky@gmail.com">dorinalaschinsky@gmail.com</a>
+      </div>
+      Copyright © 2024 Dorina Laschinsky.
+    </footer>
+
+  </body>
+</html>
